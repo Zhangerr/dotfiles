@@ -1,7 +1,7 @@
 'atom-text-editor':
   'shift-space': 'autocomplete-plus:activate'
-'body':
-  'ctrl-shift-tab': 'pane:show-previous-item'
-  'ctrl-tab': 'pane:show-next-item'
-  'ctrl-tab ^ctrl': 'unset!'
-  'ctrl-shift-tab ^ctrl': 'unset!'
+# 'body':
+#   'ctrl-shift-tab': 'pane:show-previous-item'
+#   'ctrl-tab': 'pane:show-next-item'
+#   'ctrl-tab ^ctrl': 'unset!'
+#   'ctrl-shift-tab ^ctrl': 'unset!'
